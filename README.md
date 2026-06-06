@@ -1,4 +1,4 @@
-# neurotemptest.github.io
+# neurotempest.github.io
 
 Hello world.
 
